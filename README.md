@@ -8,8 +8,8 @@
 ---
 
 ### 🧑🏻‍💻 About Me
-- **Education:** BS Data Science and Applications @ IIT Madras - Foundation level. 
-                 Btech CS @ Jain University - 2nd Year
+- **Education:** BS Data Science and Applications @ IIT Madras  
+                 
 - **Focus:** Building Web Applications, Strengthning in DSA
 - **Passionate about:** AI, LLMs, Research 
 
