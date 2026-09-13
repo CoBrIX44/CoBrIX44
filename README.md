@@ -8,7 +8,7 @@
 ---
 
 ### 🧑🏻‍💻 About Me
-- **Education:** BS Data Science and Applications @ IIT Madras  
+- **Education:** UG @ IIT Madras  
                  
 - **Focus:** Building Web Applications, Strengthning in DSA
 - **Passionate about:** AI, LLMs, Research 
@@ -17,7 +17,7 @@
 
 ### 🔬 Working On
 - **Topics:** Machine Learning · Web Development · Data Structures
-- **Learning:** Cloud Skills by Google 
+- **Learning:** Competitive Programming
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 🔥 Featured Projects
 | Project | Description | Link |
-
+Building :p 
 ---
 
 ### 📜 Certifications & Achievements
@@ -59,10 +59,3 @@
 
 ---
 
-### 👨‍💻 Terminal Mode
-```bash
-> whoami
-👨‍💻 Vijaya Rupesh N | CS Undergraduate
-
-> pwd
-~/projects/ai-ml-webdev
