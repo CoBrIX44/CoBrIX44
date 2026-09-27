@@ -51,7 +51,20 @@
 
 ### 🔥 Featured Projects
 | Project | Description | Link |
-Building :p 
+
+### 🎬 ReelAlchemy
+
+**Local-first Instagram Reel automation** built with **n8n, Python, Playwright, ShazamIO, FFmpeg, and Ollama**.
+
+* 🎵 Automatically identifies music used in Instagram Reels
+* 🔍 Uses Instagram music metadata with **ShazamIO as a fallback**
+* 🎼 Retrieves lyrics and selects a random lyric snippet
+* 🤖 Generates AI-powered captions and hashtags using **local Ollama models**
+* 🎬 Automatically discovers and captures the latest Reel
+* ✏️ Updates the caption of the **existing Reel** using Playwright
+* 🔒 Runs locally with persistent browser sessions and keeps runtime data on-device
+* ⚙️ Orchestrates the complete workflow through **n8n**
+ 
 ---
 
 ### 📜 Certifications & Achievements
