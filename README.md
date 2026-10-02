@@ -18,7 +18,7 @@
 
 <br />
 
-I'm a Computer Science student and **UG @ IIT Madras**, building web applications and local automation workflows. My current work connects browser automation, media processing, and local LLMs. Alongside that, I'm strengthening my DSA foundations, learning competitive programming, and exploring AI/ML research.
+I'm an **UG @ IIT Madras**, building web applications and local automation workflows. My current work connects browser automation, media processing, and local LLMs. Alongside that, I'm strengthening my DSA foundations, learning competitive programming, and exploring AI/ML research.
 
 I'm interested in **software engineering and research internships**, especially where full-stack development meets AI systems.
 
