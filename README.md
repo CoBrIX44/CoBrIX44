@@ -21,7 +21,7 @@
 
 <br />
 
-I'm an **UG @ IIT Madras**, building web applications and local automation workflows. My current work connects browser automation, media processing, and local LLMs. Alongside that, I'm strengthening my DSA foundations, learning competitive programming, and exploring AI/ML research.
+I'm an **UG Student @ IIT Madras**, building web applications and local automation workflows. My current work connects browser automation, media processing, and local LLMs. Alongside that, I'm strengthening my DSA foundations, learning competitive programming, and exploring AI/ML research.
 
 I am actively seeking **Software Engineering and Research Internships**, particularly in roles at the intersection of full-stack engineering, AI automation, and intelligent systems.
 
@@ -158,7 +158,7 @@ A structured repository of Python solutions for LeetCode and competitive program
 ## Education
 
 **Indian Institute of Technology Madras**  
-Undergraduate Programme — `UG @ IIT Madras`
+  `UG @ IIT Madras`
 
 ---
 
